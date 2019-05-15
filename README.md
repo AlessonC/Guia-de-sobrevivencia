@@ -23,3 +23,10 @@ Disciplinas com uma carga horária maior têm maior influência no IRA do que di
 
 Para consultar a sua nota no IRA é so apenas entra com o seu login no sigaa e logo após consulta o seu histórico escolar como demostrado 
 no pdf do manual do sigaa, é só clicar no link a seguir: [Clique Aqui](http://musica.ufma.br/arq/manual_sigaa_normal.pdf)
+
+
+## Regulamento da Organização Didática (ROD)
+O RegulRegulamento da Organização Didáticaamento (ROD) da Organização Didática do Instituto Federal de Educação, Ciência e Tecnologia de Sergipe (IFS), tem por finalidade normatizar as atividades acadêmicas que permeiam os cursos de formação inicial e continuada, técnicos, de graduação e de pós-graduação lato sensu, ou seja, é o local onde se encontra as informações sobre os direitos e deveres dos dicentes, o que é proibido, entre outras coisas.
+Para a visualização da ROD é so clicar no link a seguir: [Clique Aqui](http://www.ifs.edu.br/proen/images/Documentos/2016/CS_35_-_Aprova_a_reformula%C3%A7%C3%A3o_do_regulamento_da_Organiza%C3%A7%C3%A3o_Did%C3%A1tica.pdf)
+
+
