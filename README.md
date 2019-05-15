@@ -27,6 +27,27 @@ no pdf do manual do sigaa, é só clicar no link a seguir: [Clique Aqui](http://
 
 ## Regulamento da Organização Didática (ROD)
 O RegulRegulamento da Organização Didáticaamento (ROD) da Organização Didática do Instituto Federal de Educação, Ciência e Tecnologia de Sergipe (IFS), tem por finalidade normatizar as atividades acadêmicas que permeiam os cursos de formação inicial e continuada, técnicos, de graduação e de pós-graduação lato sensu, ou seja, é o local onde se encontra as informações sobre os direitos e deveres dos dicentes, o que é proibido, entre outras coisas.
+
+
 Para a visualização da ROD é so clicar no link a seguir: [Clique Aqui](http://www.ifs.edu.br/proen/images/Documentos/2016/CS_35_-_Aprova_a_reformula%C3%A7%C3%A3o_do_regulamento_da_Organiza%C3%A7%C3%A3o_Did%C3%A1tica.pdf)
 
+
+## Direitos do discente
+Para a visualização dos direitos do discente é possível através da ROD.  
+
+
+Para saber mais sobre os direitos do discente é so clicar no link a seguir, apartir da página 46: [Clique Aqui](http://www.ifs.edu.br/proen/images/Documentos/2016/CS_35_-_Aprova_a_reformula%C3%A7%C3%A3o_do_regulamento_da_Organiza%C3%A7%C3%A3o_Did%C3%A1tica.pdf)
+
+
+## Deveres do discente
+Para a visualização dos deveres do discente é possível através da ROD.  
+
+
+Para saber mais sobre os deveres do discente é so clicar no link a seguir, apartir da página 47: [Clique Aqui](http://www.ifs.edu.br/proen/images/Documentos/2016/CS_35_-_Aprova_a_reformula%C3%A7%C3%A3o_do_regulamento_da_Organiza%C3%A7%C3%A3o_Did%C3%A1tica.pdf)
+
+
+## Monitoria
+A monitoria é entendida como instrumento para a melhoria do ensino técnico e de graduação, por meio do estabelecimento de novas práticas e experiências pedagógicas que visem fortalecer a articulação entre teoria e prática e a integração curricular em seus diferentes aspectos, e tem a finalidade de promover a cooperação mútua entre estudantes e professores e, a vivência com o professor e com as suas atividades técnico-didáticas.
+
+Para saber mais sobre monitoria é so clicar no link a seguir, apartir da página 32: [Clique Aqui](http://www.ifs.edu.br/proen/images/Documentos/2016/CS_35_-_Aprova_a_reformula%C3%A7%C3%A3o_do_regulamento_da_Organiza%C3%A7%C3%A3o_Did%C3%A1tica.pdf)
 
