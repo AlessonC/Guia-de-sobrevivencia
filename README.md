@@ -51,3 +51,17 @@ A monitoria é entendida como instrumento para a melhoria do ensino técnico e d
 
 Para saber mais sobre monitoria é so clicar no link a seguir, apartir da página 32: [Clique Aqui](http://www.ifs.edu.br/proen/images/Documentos/2016/CS_35_-_Aprova_a_reformula%C3%A7%C3%A3o_do_regulamento_da_Organiza%C3%A7%C3%A3o_Did%C3%A1tica.pdf)
 
+## Média e frequência
+Será considerado aprovado o estudante que, ao final da série/período/disciplina, obtiver média aritmética, entre as médias dos bimestres, igual ou superior a seis por disciplina e possuir frequência igual ou superior a 75% do total da carga horária da série/período/disciplina. 
+
+Para saber mais sobre monitoria é so clicar no link a seguir, apartir da página 26: [Clique Aqui](http://www.ifs.edu.br/proen/images/Documentos/2016/CS_35_-_Aprova_a_reformula%C3%A7%C3%A3o_do_regulamento_da_Organiza%C3%A7%C3%A3o_Did%C3%A1tica.pdf)
+
+## Jubilamento
+Jubilamento é o desligamento de alunos dos cursos de Graduação que ultrapassarem o prazo máximo de tempo para a conclusão de seus cursos.
+Para a Graduação, o tempo máximo para jubilamento consiste em 50%(cinquenta porcento) do tempo mínimo previsto no Projeto Pedagógico de Curso (PPC).
+
+
+Para saber mais sobre monitoria é so clicar no link a seguir, apartir da página 41: [Clique Aqui](http://www.ifs.edu.br/proen/images/Documentos/2016/CS_35_-_Aprova_a_reformula%C3%A7%C3%A3o_do_regulamento_da_Organiza%C3%A7%C3%A3o_Did%C3%A1tica.pdf)
+
+
+## ENADE
