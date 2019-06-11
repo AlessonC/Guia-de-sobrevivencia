@@ -1,13 +1,10 @@
 # Guia de sobrevivência
 
 ## Projeto Pedagógico de Curso (PPC)   
-O Projeto Pedagógico de Curso - PPC é o mais importante instrumento de gestão utilizado pelas Coordenações de Curso e por seus Núcleos Docente Estruturantes – NDE.
+O Projeto Pedagógico de Curso - PPC é o mais importante instrumento de gestão utilizado pelas Coordenações de Curso e por seus Núcleos Docente Estruturantes – NDE.   
+O PPC, na medida em que define a formação do aluno, é um projeto de vida humana pois, por meio do que nele está planejado, define-se qual o modelo de sociedade pretende-se construir; qual pessoa e qual profissional objetiva-se formar.   
+O PPC do curso sofreu umas alterações neste ultimo período, o que levou o curso a deixar de ser apenas noturno para noturno e vespertino,  desta forma que o curso pôde se manter em 8 períodos/4 anos.   
 
-
-O PPC, na medida em que define a formação do aluno, é um projeto de vida humana pois, por meio do que nele está planejado, define-se qual o modelo de sociedade pretende-se construir; qual pessoa e qual profissional objetiva-se formar.
-
-
-O PPC do curso sofreu umas alterações neste ultimo período, o que levou o curso a deixar de ser apenas noturno para noturno e vespertino,  desta forma que o curso pôde se manter em 8 períodos/4 anos.
 
 Para poder visualizar o novo PPC do curso é só clicar no link a seguir: [Clique Aqui](http://www.ifs.edu.br/images/arquivos/Proen/PPCs_-_Superiores/Lagarto/CS_66_-_Aprova_ad_referendum_a_reformulao_do_PPC_bacharelado_em_sistemas_de_in.pdf)
 
@@ -17,8 +14,6 @@ Para poder visualizar o PPC antigo do curso é só clicar no link a seguir: [Cli
 
 ### Matriz Curricular
  A Matriz Curricular é um documento norteador da escola. É o ponto de partida de sua organização pedagógica. É a partir da matriz que se define que componentes curriculares serão ensinados na escola. A matriz curricular é parte integrante do Regimento e do Projeto Político Pedagógico (PPP) da escola e sua organização deve ser realizada a partir das disposições dos artigos 26, 27, 35 e 36 LDB 9394/96 e da Resolução 02 de janeiro de 2012 (CNE).    
- 
- 
 A equipe de coordenação da Matriz Curricular é o setor da superintendência de ensino médio responsável por orientar e monitorar as subsecretarias regionais de educação, bem como as unidades escolares, quanto à elaboração e efetivação desse documento nesse nível de ensino.
 
 Para a visualização da Matriz Curricular é so clicar no link a seguir, apartir da página 21: [Clique Aqui](http://www.ifs.edu.br/images/arquivos/Proen/PPCs_-_Superiores/Lagarto/CS_66_-_Aprova_ad_referendum_a_reformulao_do_PPC_bacharelado_em_sistemas_de_in.pdf)
@@ -65,6 +60,34 @@ O RegulRegulamento da Organização Didáticaamento (ROD) da Organização Didá
 
 
 Para a visualização da ROD é so clicar no link a seguir: [Clique Aqui](http://www.ifs.edu.br/proen/images/Documentos/2016/CS_35_-_Aprova_a_reformula%C3%A7%C3%A3o_do_regulamento_da_Organiza%C3%A7%C3%A3o_Did%C3%A1tica.pdf)
+
+
+
+## Docentes
+Docente significa a pessoa que dá aula, o professor, seja em universidades, colégios, cursos técnicos etc. Docente é um termo relativo ao ensino, é o indivíduo que ensina outros, independente do tema.
+Existe também o corpo docente, que é um grupo de professores que ensinam outras pessoas, e todas insituições de ensino possuem um corpo docente.
+
+
+### Quem são?
+Para a visualização de todos os professores, ou docentes do IFS e só clicar no link a seguir: [Clique Aqui](https://sigaa.ifs.edu.br/sigaa/public/docente/busca_docentes.jsf)
+
+
+### Direitos e Deveres do docente
+Para saber mais sobre Direitos e Deveres do Docente é so clicar no link a seguir, apartir da página 42: [Clique Aqui](http://www.ifs.edu.br/proen/images/Documentos/2016/CS_35_-_Aprova_a_reformula%C3%A7%C3%A3o_do_regulamento_da_Organiza%C3%A7%C3%A3o_Did%C3%A1tica.pdf)
+
+### Coordenação
+Para saber sobre a Coordenação do **IFS** é so clicar no link a seguir: [Clique Aqui](http://www.ifs.edu.br/estrutura-administrativa-lagarto/coordenacoes)
+
+## Ministerio da Educação (MEC)
+O MEC - Ministério da Educação, é um órgão do governo federal que trata dos assuntos relacionados à educação e cultura em todo território nacional. É o órgão superior de todas as secretarias de educação estaduais e municipais do Brasil.
+O ministério é responsável pela Política Nacional de Educação, relativa ao ensino infantil, fundamental, médio e profissional, de jovens e adultos, especial, além também do ensino superior e a distância.
+
+### Avaliações de curso MEC/INEP
+
+O Ministério da educação avalia os cursos superiores de acordo com critérios estabelecidos no instrumento de avaliação de cursos de graduação presencial e a distância, para esta avaliação a biblioteca tem peso (4) diluídos em indicadores como: estrutura física, recursos humanos, recursos tecnlógicos e acervo - bibliografia básica, bibliografia complementar e periódicos.
+
+Para visualização da tabela por completo dos pesos de cada matéria é so clicar no link a seguir: [Clique Aqui](http://www.ifs.edu.br/institucional-biblioteca/avaliacao-mec-biblioteca)
+
 
 ## Discentes
 
@@ -136,6 +159,8 @@ Para saber mais sobre como se cadastrar no sigaa é so clicar no link a seguir: 
 
 
 Caso esteja em duvidas sobre o seu cadastro é só clicar no link a seguir, que você se deparará com um video no YouTube explicando passo a passo: [Clique Aqui](https://youtu.be/CJrfmsOi6Hk)
+
+
 
 
 
