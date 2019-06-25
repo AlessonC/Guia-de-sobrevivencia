@@ -52,14 +52,15 @@ O **Índice de rendimento acadêmico** (IRA) é a média ponderada das notas obt
 Disciplinas com uma carga horária maior têm maior influência no **IRA** do que disciplinas com uma carga horária menor. Disciplinas nas quais o aluno foi REPROVADO POR INFREQUÊNCIA entram no cálculo como se fossem nota zero. Por isso, é importante que o aluno sempre TRANQUE A DISCIPLINA, quando souber antecipadamente que não poderá frequentar a disciplina naquele semestre, por qualquer motivo, ou que TRANQUE O CURSO quando tiver que se ausentar de todas as disciplinas durante determinado semestre, ao invés de abandonar a aula e ser reprovado por infrequência.
 
 Para consultar a sua nota no **IRA** é so apenas entrar com o seu login no sigaa e consultar o seu histórico escolar como demostrado 
-no pdf do manual do sigaa, é só clicar no link a seguir: ![IRA](https://user-images.githubusercontent.com/48737355/60114561-718dc000-974a-11e9-82c9-9247aab5cfbb.PNG)
+na imagem abaixo. ![IRA](https://user-images.githubusercontent.com/48737355/60114561-718dc000-974a-11e9-82c9-9247aab5cfbb.PNG)
 
+Quando voc~e selecionar a opção **Consultar Histórico Escolar**, vai ser gerado automaticamente um *pdf*, onde estará todas as suas informações sobre o curso inclusive sua nota do **IRA**.
 
 ## Regulamento da Organização Didática (ROD)
-O RegulRegulamento da Organização Didáticaamento (ROD) da Organização Didática do Instituto Federal de Educação, Ciência e Tecnologia de Sergipe (IFS), tem por finalidade normatizar as atividades acadêmicas que permeiam os cursos de formação inicial e continuada, técnicos, de graduação e de pós-graduação lato sensu, ou seja, é o local onde se encontra as informações sobre os direitos e deveres dos dicentes, o que é proibido, entre outras coisas.
+O **Regulamento da Organização Didáticaamento** - (ROD) da Organização Didática do Instituto Federal de Educação, Ciência e Tecnologia de Sergipe (IFS), tem por finalidade normatizar as atividades acadêmicas que permeiam os cursos de formação inicial e continuada, técnicos, de graduação e de pós-graduação lato sensu, ou seja, é o local onde se encontra as informações sobre os direitos e deveres dos dicentes, o que é proibido, entre outras coisas.
 
 
-Para a visualização da ROD é so clicar no link a seguir: [Clique Aqui](http://www.ifs.edu.br/proen/images/Documentos/2016/CS_35_-_Aprova_a_reformula%C3%A7%C3%A3o_do_regulamento_da_Organiza%C3%A7%C3%A3o_Did%C3%A1tica.pdf)
+Para a visualização da **ROD** é so clicar no link a seguir: [Clique Aqui](http://www.ifs.edu.br/proen/images/Documentos/2016/CS_35_-_Aprova_a_reformula%C3%A7%C3%A3o_do_regulamento_da_Organiza%C3%A7%C3%A3o_Did%C3%A1tica.pdf)
 
 
 
@@ -73,43 +74,36 @@ Para a visualização de todos os professores, ou docentes do IFS e só clicar n
 
 
 ### Direitos e Deveres do docente
-Para saber mais sobre Direitos e Deveres do Docente é so clicar no link a seguir, apartir da página 42: [Clique Aqui](http://www.ifs.edu.br/proen/images/Documentos/2016/CS_35_-_Aprova_a_reformula%C3%A7%C3%A3o_do_regulamento_da_Organiza%C3%A7%C3%A3o_Did%C3%A1tica.pdf)
+Para entender quais são os **Direitos e Deveres do Docente** é so clicar no link a seguir, apartir da página 42: [Clique Aqui](http://www.ifs.edu.br/proen/images/Documentos/2016/CS_35_-_Aprova_a_reformula%C3%A7%C3%A3o_do_regulamento_da_Organiza%C3%A7%C3%A3o_Did%C3%A1tica.pdf)
 
 ### Coordenação
-Para saber sobre a Coordenação do **IFS** é so clicar no link a seguir: [Clique Aqui](http://www.ifs.edu.br/estrutura-administrativa-lagarto/coordenacoes)
+Para saber sobre a **Coordenação do IFS** é so clicar no link a seguir: [Clique Aqui](http://www.ifs.edu.br/estrutura-administrativa-lagarto/coordenacoes)
 
 ## Ministerio da Educação (MEC)
-O MEC - Ministério da Educação, é um órgão do governo federal que trata dos assuntos relacionados à educação e cultura em todo território nacional. É o órgão superior de todas as secretarias de educação estaduais e municipais do Brasil.
+O MEC - **Ministério da Educação**, é um órgão do governo federal que trata dos assuntos relacionados à educação e cultura em todo território nacional. É o órgão superior de todas as secretarias de educação estaduais e municipais do Brasil.
 O ministério é responsável pela Política Nacional de Educação, relativa ao ensino infantil, fundamental, médio e profissional, de jovens e adultos, especial, além também do ensino superior e a distância.
 
 ### Avaliações de curso MEC/INEP
 
-O Ministério da educação avalia os cursos superiores de acordo com critérios estabelecidos no instrumento de avaliação de cursos de graduação presencial e a distância, para esta avaliação a biblioteca tem peso (4) diluídos em indicadores como: estrutura física, recursos humanos, recursos tecnlógicos e acervo - bibliografia básica, bibliografia complementar e periódicos.
+O **Ministério da educação** avalia os cursos superiores de acordo com critérios estabelecidos no instrumento de avaliação de cursos de graduação presencial e a distância, para esta avaliação a biblioteca tem peso (4) diluídos em indicadores como: estrutura física, recursos humanos, recursos tecnlógicos e acervo - bibliografia básica, bibliografia complementar e periódicos.
 
 Para visualização da tabela por completo dos pesos de cada matéria é so clicar no link a seguir: [Clique Aqui](http://www.ifs.edu.br/institucional-biblioteca/avaliacao-mec-biblioteca)
 
 
 ## Discentes
+**Discente** é aquele que aprende, é relativo ao aluno que frequenta cursos, escolas, universidades, ou qualquer outro estabelecimento que se propõe a ensinar. A palavra discente é um adjetivo de dois gêneros, com origem do latim "discente", que significa "aluno".
+
+### Direitos e Deveres do Discente
+Para a visualização dos **Direitos do Discente** é possível através da ROD.  
 
 
-### Direitos do discente
-Para a visualização dos direitos do discente é possível através da ROD.  
-
-
-Para saber mais sobre os direitos do discente é so clicar no link a seguir, apartir da página 46: [Clique Aqui](http://www.ifs.edu.br/proen/images/Documentos/2016/CS_35_-_Aprova_a_reformula%C3%A7%C3%A3o_do_regulamento_da_Organiza%C3%A7%C3%A3o_Did%C3%A1tica.pdf)
-
-
-### Deveres do discente
-Para a visualização dos deveres do discente é possível através da ROD.  
-
-
-Para saber mais sobre os deveres do discente é so clicar no link a seguir, apartir da página 47: [Clique Aqui](http://www.ifs.edu.br/proen/images/Documentos/2016/CS_35_-_Aprova_a_reformula%C3%A7%C3%A3o_do_regulamento_da_Organiza%C3%A7%C3%A3o_Did%C3%A1tica.pdf)
+Para saber mais sobre os direitos e deveres do discente é so clicar no link a seguir, apartir da página 46: [Clique Aqui](http://www.ifs.edu.br/proen/images/Documentos/2016/CS_35_-_Aprova_a_reformula%C3%A7%C3%A3o_do_regulamento_da_Organiza%C3%A7%C3%A3o_Did%C3%A1tica.pdf)
 
 
 ### Monitoria
-A monitoria é entendida como instrumento para a melhoria do ensino técnico e de graduação, por meio do estabelecimento de novas práticas e experiências pedagógicas que visem fortalecer a articulação entre teoria e prática e a integração curricular em seus diferentes aspectos, e tem a finalidade de promover a cooperação mútua entre estudantes e professores e, a vivência com o professor e com as suas atividades técnico-didáticas.
+A **monitoria** é entendida como instrumento para a melhoria do ensino técnico e de graduação, por meio do estabelecimento de novas práticas e experiências pedagógicas que visem fortalecer a articulação entre teoria e prática e a integração curricular em seus diferentes aspectos, e tem a finalidade de promover a cooperação mútua entre estudantes e professores e, a vivência com o professor e com as suas atividades técnico-didáticas.
 
-Para saber mais sobre monitoria é so clicar no link a seguir, apartir da página 32: [Clique Aqui](http://www.ifs.edu.br/proen/images/Documentos/2016/CS_35_-_Aprova_a_reformula%C3%A7%C3%A3o_do_regulamento_da_Organiza%C3%A7%C3%A3o_Did%C3%A1tica.pdf)
+Para saber mais sobre **monitoria** é so clicar no link a seguir, apartir da página 32: [Clique Aqui](http://www.ifs.edu.br/proen/images/Documentos/2016/CS_35_-_Aprova_a_reformula%C3%A7%C3%A3o_do_regulamento_da_Organiza%C3%A7%C3%A3o_Did%C3%A1tica.pdf)
 
 ### Média e frequência
 Será considerado aprovado o estudante que, ao final da série/período/disciplina, obtiver média aritmética, entre as médias dos bimestres, igual ou superior a seis por disciplina e possuir frequência igual ou superior a 75% do total da carga horária da série/período/disciplina. 
