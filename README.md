@@ -52,7 +52,7 @@ O **Índice de rendimento acadêmico** (IRA) é a média ponderada das notas obt
 Disciplinas com uma carga horária maior têm maior influência no **IRA** do que disciplinas com uma carga horária menor. Disciplinas nas quais o aluno foi REPROVADO POR INFREQUÊNCIA entram no cálculo como se fossem nota zero. Por isso, é importante que o aluno sempre TRANQUE A DISCIPLINA, quando souber antecipadamente que não poderá frequentar a disciplina naquele semestre, por qualquer motivo, ou que TRANQUE O CURSO quando tiver que se ausentar de todas as disciplinas durante determinado semestre, ao invés de abandonar a aula e ser reprovado por infrequência.
 
 Para consultar a sua nota no **IRA** é so apenas entrar com o seu login no sigaa e consultar o seu histórico escolar como demostrado 
-no pdf do manual do sigaa, é só clicar no link a seguir: [Clique Aqui](http://musica.ufma.br/arq/manual_sigaa_normal.pdf)
+no pdf do manual do sigaa, é só clicar no link a seguir: ![IRA](https://user-images.githubusercontent.com/48737355/60114561-718dc000-974a-11e9-82c9-9247aab5cfbb.PNG)
 
 
 ## Regulamento da Organização Didática (ROD)
