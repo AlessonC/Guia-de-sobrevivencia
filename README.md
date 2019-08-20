@@ -65,12 +65,12 @@ Para a visualização da **ROD** é so clicar no link a seguir: [Clique Aqui](ht
 
 
 ## Docentes
-Docente significa a pessoa que dá aula, o professor, seja em universidades, colégios, cursos técnicos etc. Docente é um termo relativo ao ensino, é o indivíduo que ensina outros, independente do tema.
+**Docente** significa a pessoa que dá aula, o professor, seja em universidades, colégios, cursos técnicos etc. **Docente** é um termo relativo ao ensino, é o indivíduo que ensina outros, independente do tema.
 Existe também o corpo docente, que é um grupo de professores que ensinam outras pessoas, e todas insituições de ensino possuem um corpo docente.
 
 
 ### Quem são?
-Para a visualização de todos os professores, ou docentes do IFS e só clicar no link a seguir: [Clique Aqui](https://sigaa.ifs.edu.br/sigaa/public/docente/busca_docentes.jsf)
+Para a visualização de todos os professores (docentes) do IFS e só clicar no link a seguir: [Clique Aqui](https://sigaa.ifs.edu.br/sigaa/public/docente/busca_docentes.jsf)
 
 
 ### Direitos e Deveres do docente
@@ -97,7 +97,7 @@ Para visualização da tabela por completo dos pesos de cada matéria é so clic
 Para a visualização dos **Direitos do Discente** é possível através da ROD.  
 
 
-Para saber mais sobre os direitos e deveres do discente é so clicar no link a seguir, apartir da página 46: [Clique Aqui](http://www.ifs.edu.br/proen/images/Documentos/2016/CS_35_-_Aprova_a_reformula%C3%A7%C3%A3o_do_regulamento_da_Organiza%C3%A7%C3%A3o_Did%C3%A1tica.pdf)
+Para saber mais sobre os **direitos e deveres do discente** é so clicar no link a seguir, apartir da página 46: [Clique Aqui](http://www.ifs.edu.br/proen/images/Documentos/2016/CS_35_-_Aprova_a_reformula%C3%A7%C3%A3o_do_regulamento_da_Organiza%C3%A7%C3%A3o_Did%C3%A1tica.pdf)
 
 
 ### Monitoria
@@ -146,7 +146,7 @@ Para saber mais sobre o que é o **sigaa** é so clicar no link a seguir: [Cliqu
 
 
 ### Como se cadastrar?
-Para cadastrar-se no SIGAA é necessário preencher um formulário. O cadastro só será validado se os dados digitados forem iguais aos dados informados no processo seletivo.
+Para **cadastrar-se** no SIGAA é necessário preencher um formulário. O cadastro só será validado se os dados digitados forem iguais aos dados informados no processo seletivo.
 
 
 Para saber mais sobre **como se cadastrar** no sigaa é so clicar no link a seguir: [Clique Aqui](https://sigaa.ifs.edu.br/sigaa/public/cadastro/discente.jsf)
