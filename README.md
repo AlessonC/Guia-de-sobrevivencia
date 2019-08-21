@@ -202,6 +202,20 @@ Para mais informações [Clique Aqui](http://www.ifs.edu.br/cursos-superiores/25
 
 ### Regras ###
 
+Algumas coisas que são importantes saber sobre a biblioteca:
+
+	* A biblioteca pode emprestar até um limite de 2(dois) livros por aluno.
+	* Ao pegar um livro, o aluno terá 7 dias corridos para devolvê-lo.
+	* Um livro que já foi pego, poderá ser renovado por mais 7 dias, porém existe um limite de apenas 2 renovações por livro.
+	* Renovações e requerimentos de livros poderam ser feitos atraves da biblioteca virtual Pergamum.
+	* Atraves da biblioteca virtual também é possivel ver o acervo de livros disponíveis no campus. 
+
+No Ambiente físico:  
+
+	* O aluno poderá pegar e ler quantos livros quiser, enquanto estiver na biblioteca, contanto que ao final de seus estudos, os livros que foram pegos sejam devidamente guardados em seus respectivos lugares.
+	* Não é permitido comer quais quer tipos alimento na biblioteca.
+	* E por último mas não menos importante, a biblioteca é um lugar de demanda SILÊNCIO, então respeite isso!! 
+
 -----------------------
 
 ### Pergamum ###
