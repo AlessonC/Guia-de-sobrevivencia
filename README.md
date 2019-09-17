@@ -98,6 +98,8 @@ Para saber sobre a **Coordenação do IFS** é so clicar no link a seguir: [Cliq
 O MEC - **Ministério da Educação**, é um órgão do governo federal que trata dos assuntos relacionados à educação e cultura em todo território nacional. É o órgão superior de todas as secretarias de educação estaduais e municipais do Brasil.
 O ministério é responsável pela Política Nacional de Educação, relativa ao ensino infantil, fundamental, médio e profissional, de jovens e adultos, especial, além também do ensino superior e a distância.
 
+Para saber mais sobre o **MEC** é só clicar no link a seguir : [Clique Aqui](https://www.mec.gov.br)
+
 --------------------------------
 
 ### Avaliações de curso MEC/INEP
